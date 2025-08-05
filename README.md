@@ -19,6 +19,7 @@ Key Findings & Analysis
 • DBSCAN Analysis: Grouped the majority of customers (4,337) into a large, dense cluster, representing typical purchasing behavior. It also isolated smaller, distinct customer groups and identified 12 outliers with anomalous spending patterns.
 
 Business Impact
+
 • The insights from this segmentation allow a business to:
 
 • Develop targeted marketing campaigns for different customer segments (e.g., exclusive offers for top spenders).
