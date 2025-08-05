@@ -7,6 +7,7 @@ This project segments customers from a UK-based online retailer's transaction da
 • Clustering Models: Both K-Means and DBSCAN algorithms were applied to segment customers. K-Means created broad segments based on spending, while DBSCAN identified natural, density-based clusters and detected outliers.
 
 Key Findings & Analysis
+
 • K-Means Segmentation: Successfully identified three primary customer segments:
 
   1. Core Customers (4,346): The largest group with moderate spending habits.
